@@ -1,0 +1,17 @@
+body {
+    height: 5000px;
+}
+
+nav {
+    border-bottom: 1px solid black;
+    background-color: cornflowerblue;
+}
+
+
+
+nav div {
+    display: inline-block;
+    background-color: aqua;
+    width: 100px;
+    text-align: center;
+}

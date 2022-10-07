@@ -21,6 +21,9 @@ body {
   width: 150px;
   background-color: red;
   color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
 
 }
 .fixed {
